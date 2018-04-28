@@ -1,0 +1,22 @@
+{
+  "name": "wordguess-game-cli",
+  "version": "1.0.0",
+  "description": "A Word Guess command-line game using constructor functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandraperalta/WordGuess-Game-CLI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandraperalta/WordGuess-Game-CLI/issues"
+  },
+  "homepage": "https://github.com/alexandraperalta/WordGuess-Game-CLI#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0"
+  }
+}
